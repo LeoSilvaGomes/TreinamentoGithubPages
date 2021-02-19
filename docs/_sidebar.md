@@ -1,0 +1,3 @@
+- Elicitação do projeto
+  - [Documento de visão](./pages/documento_de_visao.md)
+  - [Documento de arquitetura](./pages/documento_de_arquitetura.md)
